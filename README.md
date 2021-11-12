@@ -5,7 +5,7 @@
 
 [![Twitter: UlisesVAF](https://img.shields.io/twitter/follow/UlisesVAF?style=social)](https://twitter.com/UlisesVAF)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulisesvaf)
-![GitHub followers](https://img.shields.io/github/followers/UliVargas?tab=followers?logo=Followers&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/UliVargas?tab=followers?logo=Followers&style=social)](https://github.com/UliVargas)
 
 
 ### 👨🏽‍💻 Un poco mas sobre mi... 
