@@ -1,5 +1,5 @@
 <h2> Hola, soy Ulises! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/source.gif" width="350">
+<img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/source.gif" width="350">
 <p><em>Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em></p>
 
 
