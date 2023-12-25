@@ -13,16 +13,19 @@
 ```javascript
 const Ulises = {
  tegnologías: {
-       código: ["Javascript"],
+       código: ["Javascript", "Typescript"],
        web: ["HTML5", "CSS3"],
        front: {
-            js: ["React"],
-            misc: ["Redux"]
+            js: ["React", "Next.js", "Remix", "Angular"],
+            misc: ["Redux", "Zustand", "Zod", "Joi"]
         },
        backEnd: {
-            js: ["Node", "express"],
+            js: ["Node", "express", "NestJS"],
         },
-        databases: ["Firebase", "PostgreSQL", "Sequelize"],
+        databases: {
+           databases: ["Firebase", "PostgreSQL", "MySQL", "Supabase", "MongoDB"]
+           orm-odm: ["Sequelize", "Prisma", "TypeORM", "Mongoose"]
+        },
     },
 }
 ```
